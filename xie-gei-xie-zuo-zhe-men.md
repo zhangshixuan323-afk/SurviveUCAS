@@ -1,6 +1,6 @@
 # 写给写作者们
 
-你们好！灵感来源于[https://sjtu-geek.github.io/SJTU-Wiki/experience/survive.html](https://sjtu-geek.github.io/SJTU-Wiki/experience/survive.html)，确实写的非常棒非常犀利。
+你们好！灵感来源于[https://survivesjtu.gitbook.io/survivesjtumanual](https://survivesjtu.gitbook.io/survivesjtumanual)，确实写的非常棒非常犀利。
 
 这个website暂时用gitbook托管，反正还没publish，想怎么改都行，随便写。提倡自由，切忌偏激。
 

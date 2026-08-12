@@ -1,6 +1,7 @@
 # Table of contents
 
 * [序](README.md)
+* [写给写作者们](xie-gei-xie-zuo-zhe-men.md)
 
 ## 游荡集
 
@@ -30,7 +31,3 @@
 * [考研](si-nian-zhi-hou/kao-yan.md)
 * [申请出国](si-nian-zhi-hou/shen-qing-chu-guo.md)
 * [就业（真的有吗）](si-nian-zhi-hou/jiu-ye-zhen-de-you-ma.md)
-
-***
-
-* [写给写作者们](xie-gei-xie-zuo-zhe-men.md)
