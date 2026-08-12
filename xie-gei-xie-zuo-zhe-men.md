@@ -4,6 +4,8 @@
 
 我们应该有观点，但不能偏激、泄愤，观点应该是客观的、基于事实和逻辑、尽量全面的。指名道姓、阴阳怪气、发泄不满只会削弱陈述的价值和讲述者在读者心中的信用。
 
+我们只代表这个时刻的自己，努力忠实的陈述自己的观点和看法，除此之外，不代表、也无力代表任何第三方。
+
 
 
 灵感来源于[https://survivesjtu.gitbook.io/survivesjtumanual](https://survivesjtu.gitbook.io/survivesjtumanual)，确实写的非常棒非常犀利。

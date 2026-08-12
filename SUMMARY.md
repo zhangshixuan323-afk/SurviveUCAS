@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序](README.md)
+* [序：你想活出怎样的人生](README.md)
 * [写给写作者们](xie-gei-xie-zuo-zhe-men.md)
 
 ## 游荡集
