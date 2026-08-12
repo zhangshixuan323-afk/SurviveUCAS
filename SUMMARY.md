@@ -34,4 +34,3 @@
 ***
 
 * [写给写作者们](xie-gei-xie-zuo-zhe-men.md)
-* [测试](test.md)
