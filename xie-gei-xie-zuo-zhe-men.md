@@ -10,9 +10,9 @@
 
 
 
-灵感来源于[https://survivesjtu.gitbook.io/survivesjtumanual](https://survivesjtu.gitbook.io/survivesjtumanual)，确实写的非常棒非常犀利。
+灵感来源于[https://survivesjtu.gitbook.io/survivesjtumanual](https://survivesjtu.gitbook.io/survivesjtumanual)
 
-这个website暂时用gitbook托管，反正还没publish，想怎么改都行，随便写。提倡自由，切忌偏激。
+
 
 有一些名字一看就很水的，比如校园生活篇的几个，是因为我没想好，我也不太熟悉这些方面，写的时候改了就行。其实都可以改。
 

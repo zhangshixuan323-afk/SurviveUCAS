@@ -7,7 +7,9 @@
 
 * [为什么是国科大](you-dang-ji/wei-shen-me-shi-guo-ke-da.md)
 * [work life balance](you-dang-ji/work-life-balance.md)
-* [信息素养](you-dang-ji/xin-xi-su-yang.md)
+* [快乐而非胜利](you-dang-ji/kuai-le-er-fei-sheng-li.md)
+* [品质的两面性](you-dang-ji/pin-zhi-de-liang-mian-xing.md)
+* [拒绝PUA](you-dang-ji/ju-jue-pua.md)
 
 ## 访谈录
 
