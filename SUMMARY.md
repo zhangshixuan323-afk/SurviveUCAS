@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序：虽千万人，吾兴高采烈往矣。](README.md)
+* [序：虽千万人，吾兴高采烈往矣](README.md)
 * [如果早知道，大学生也应该主动认识更多可能](ru-guo-zao-zhi-dao-da-xue-sheng-ye-ying-gai-zhu-dong-ren-shi-geng-duo-ke-neng.md)
 * [写给写作者们](xie-gei-xie-zuo-zhe-men.md)
 * [声明](sheng-ming.md)
