@@ -16,7 +16,7 @@
 ## 访谈录
 
 * [所有人都要读phd吗](fang-tan-lu/suo-you-ren-dou-yao-du-phd-ma.md)
-* [什么是research的意义](fang-tan-lu/zen-me-kai-shi-zuo-research.md)
+* [research的意义](fang-tan-lu/zen-me-kai-shi-zuo-research.md)
 * [好title就是好导师吗](fang-tan-lu/hao-title-jiu-shi-hao-lao-ban-ma.md)
 
 ## 生存指南
